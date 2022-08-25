@@ -1,0 +1,28 @@
+# images
+*.jpg
+*.jpeg
+*.raw
+*.tif
+*.tiff
+*.gif
+
+# audio
+*.mp3
+*.wav
+*.ogg
+
+# archives
+*.zip
+*.7zip
+*.rar
+
+=======
+*.jpg
+*.mp4
+*.wav
+*.mat
+
+# folders
+/BACKTRACKING
+/BRUTEFORCE
+/OLD
