@@ -5,7 +5,7 @@ Updated on Jun 9th 2020.
 This script was written in Matlab and uses the Pyschophysics Toolbox for stimulus presentation. It presents a variety of facial stimuli with different emotional valence to be used in an ECG/EEG paradigm that measures heartbeat-evoked potentials (HEP). 
 
 ## Design
-![Design](https://github.com/wunderwald/MindTheBody/blob/Jakob/HEP/readme/design.png) ![Attention Grabber](https://github.com/wunderwald/MindTheBody/blob/Jakob/HEP/readme/attentionGrabber.png) 
+![Design](readme/design.png) ![Attention Grabber](readme/attentionGrabber.png) 
 
 - Neutral gray screen with some jitter  
 	- 1500 to 2500 ms for the first [with baby] block  
